@@ -1,5 +1,7 @@
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&color=%23000000&size=40&duration=4500&center=true&vCenter=true&width=1000&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Alejandro+Gutierrez;Hi+%F0%9F%91%8B%2C+I'm+Web+Developer;Hi+%F0%9F%91%8B%2C+I'm+Frontend+Developer)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&color=%236CAFD9&size=40&duration=4500&center=true&vCenter=true&width=1000&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Alejandro+Gutierrez;Hi+%F0%9F%91%8B%2C+I'm+Web+Developer;Hi+%F0%9F%91%8B%2C+I'm+Frontend+Developer)](https://git.io/typing-svg)
+
+
 
 
 <h3 align="center">A passionate frontend web developer from Mexico</h3>
