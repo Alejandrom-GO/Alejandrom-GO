@@ -6,7 +6,7 @@
 #### I am Alejandro Gutierrez
 Hello, I started as a web developer since 2018, I focus on frontend development because it is the area of ​​my interests, but I have interacted in some projects with the backend and the development of REST APIS, I am a very curious person and I always want keep learning and creating new things.
 
-<h3>🌍 ✉Contact me</h3>
+<h3>🌍 Contact me</h3>
 <p>
  <a target="_blank" href="https://thomasgeorgethomas.ml/">
   <img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img>
@@ -19,6 +19,15 @@ Hello, I started as a web developer since 2018, I focus on frontend development 
  </a>
 </p>       
 
+<h3>⚡Principal Stack</h3> 
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/SASS-C69?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/BOOTSTRAP-563D7c?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PHP-9D9D9D?style=for-the-badge&logo=php&logoColor=white">
+</p>
 
 <h3>👨🏻‍💻I’m currently learning</h3>
 <p>
@@ -26,24 +35,8 @@ Hello, I started as a web developer since 2018, I focus on frontend development 
   <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 </p>
 
-<h2>
-   ⚡Principal Stack
-</h2> 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/SASS-C69?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/BOOTSTRAP-563D7c?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/PHP-9D9D9D?style=for-the-badge&logo=php&logoColor=white">
-</p>
-  
+<h2>Skills</h2> 
 
-<h3>Programming Languages</h3>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/PHP-9D9D9D?style=for-the-badge&logo=php&logoColor=white">
-</p>
 <h3>⭐Frontend Development</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -51,6 +44,11 @@ Hello, I started as a web developer since 2018, I focus on frontend development 
   <img src="https://img.shields.io/badge/SASS-C69?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/BOOTSTRAP-563D7c?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+</p>
+<h3>Programming Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PHP-9D9D9D?style=for-the-badge&logo=php&logoColor=white">
 </p>
 <h3>⚙️Backend Development</h3>
 <p>
