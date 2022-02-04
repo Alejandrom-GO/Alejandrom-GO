@@ -2,9 +2,16 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&color=%236CAFD9&size=40&duration=4500&center=true&vCenter=true&width=1000&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Alejandro+Gutierrez;Hi+%F0%9F%91%8B%2C+I'm+Web+Developer;Hi+%F0%9F%91%8B%2C+I'm+Frontend+Developer)](https://git.io/typing-svg)
 
 
+### Hi there 👋, Hi, Devps
+#### I am Alejandro Gutierrez
+Hello, I started as a web developer since 2018, I focus on frontend development because it is the area of ​​my interests, but I have interacted in some projects with the backend and the development of REST APIS, I am a very curious person and I always want keep learning and creating new things.
+
+<h3>🌱 I’m currently learning</h3>
+<p>
+  <img src="https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=react&logoColor=black">
+</p>
 
 
-<h3 align="center">A passionate frontend web developer from Mexico</h3>
 <h2>
   Principal Stack
 </h2> 
@@ -17,7 +24,7 @@
   <img src="https://img.shields.io/badge/PHP-9D9D9D?style=for-the-badge&logo=php&logoColor=white">
 </p>
   
-<h3>Programming Languages</h4>
+<h3>Programming Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/PHP-9D9D9D?style=for-the-badge&logo=php&logoColor=white">
