@@ -9,6 +9,7 @@ Hello, I started as a web developer since 2018, I focus on frontend development 
 <h3>🌱 I’m currently learning</h3>
 <p>
   <img src="https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 </p>
 
 
