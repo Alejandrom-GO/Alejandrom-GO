@@ -8,13 +8,13 @@ Hello, I started as a web developer since 2018, I focus on frontend development 
 
 <h3>🌍 Contact me</h3>
 <p>
- <a target="_blank" href="https://thomasgeorgethomas.ml/">
+ <a target="_blank" href="https://portafolio-beryl.vercel.app/">
   <img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img>
  </a>	
- <a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas">
+ <a target="_blank" href="www.linkedin.com/in/miguelgutierrezortg">
  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
  </a>
- <a target="_blank" href="mailto:thomasgeorgethomas@gmail.com">
+ <a target="_blank" href="mailto:miguel.a.gutierrezortega@gmail.com">
  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img>
  </a>
 </p>       
