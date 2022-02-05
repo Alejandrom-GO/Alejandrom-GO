@@ -19,7 +19,7 @@ Hello, I started as a web developer since 2018, I focus on frontend development 
  </a>
 </p>       
 
-<h3>⚡Principal Stack</h3> 
+<h3>⚡ Principal Stack</h3> 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -29,7 +29,7 @@ Hello, I started as a web developer since 2018, I focus on frontend development 
   <img src="https://img.shields.io/badge/PHP-9D9D9D?style=for-the-badge&logo=php&logoColor=white">
 </p>
 
-<h3>👨🏻‍💻I’m currently learning</h3>
+<h3>👨🏻‍💻  I’m currently learning</h3>
 <p>
   <img src="https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white">
@@ -37,7 +37,7 @@ Hello, I started as a web developer since 2018, I focus on frontend development 
 
 <h2>Skills</h2> 
 
-<h3>⭐Frontend Development</h3>
+<h3>⭐ Frontend Development</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -50,7 +50,7 @@ Hello, I started as a web developer since 2018, I focus on frontend development 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/PHP-9D9D9D?style=for-the-badge&logo=php&logoColor=white">
 </p>
-<h3>⚙️Backend Development</h3>
+<h3>⚙️ Backend Development</h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/LARAVEL-F05340?style=for-the-badge&logo=laravel&logoColor=white">
@@ -65,7 +65,7 @@ Hello, I started as a web developer since 2018, I focus on frontend development 
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
 </p>
-<h3>Tools & Technologies</h3>
+<h3>🛠 Tools & Technologies</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
