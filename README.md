@@ -2,7 +2,8 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&color=%231A95C7&size=40&duration=4800&center=true&vCenter=true&width=1000&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Alejandro+Gutierrez;Hi+%F0%9F%91%8B%2C+I'm+Web+Developer;Hi+%F0%9F%91%8B%2C+I'm+Frontend+Developer)](https://git.io/typing-svg)
 
 
-###  Hi, Devps <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<h3> Hi, Devps <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h3>
+
 #### I am Alejandro Gutierrez
 Hello, I started as a web developer since 2018, I focus on frontend development because it is the area of ​​my interests, but I have interacted in some projects with the backend and the development of REST APIS, I am a very curious person and I always want keep learning and creating new things.
 
@@ -35,7 +36,7 @@ Hello, I started as a web developer since 2018, I focus on frontend development 
   <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 </p>
 
-<h2>Skills</h2> 
+<h1>Skills</h1> 
 
 <h3>⭐ Frontend Development</h3>
 <p>
