@@ -1,5 +1,5 @@
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&color=%231A95C7&size=40&duration=4800&center=true&vCenter=true&width=1000&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Alejandro+Gutierrez;Hi+%F0%9F%91%8B%2C+I'm+Web+Developer;Hi+%F0%9F%91%8B%2C+I'm+Frontend+Developer)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&color=%23979494&size=45&duration=4800&center=true&vCenter=true&width=1000&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Alejandro+Gutierrez;Hi+%F0%9F%91%8B%2C+I'm+Web+Developer;Hi+%F0%9F%91%8B%2C+I'm+Frontend+Developer)](https://git.io/typing-svg)
 
 
 <h3> Hi, Devps <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h3>
