@@ -2,7 +2,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&color=%23979494&size=45&duration=4800&center=true&vCenter=true&width=1000&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Alejandro+Gutierrez;Hi+%F0%9F%91%8B%2C+I'm+Web+Developer;Hi+%F0%9F%91%8B%2C+I'm+Frontend+Developer)](https://git.io/typing-svg)
 
 
-<h3> Hi, Devps <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px"></h3>
+<h3> Hi, Devps </h3>
 
 #### I am Alejandro Gutierrez
 Hello, I started as a web developer since 2018, I focus on frontend development because it is the area of ​​my interests, but I have interacted in some projects with the backend and the development of REST APIS, I am a very curious person and I always want keep learning and creating new things.
