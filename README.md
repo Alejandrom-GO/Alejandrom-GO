@@ -46,6 +46,7 @@ Hello, I started as a web developer since 2018, I focus on frontend development 
   <img src="https://img.shields.io/badge/SASS-C69?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/BOOTSTRAP-563D7c?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 </p>
 <h3>💻 Programming Languages</h3>
 <p>
