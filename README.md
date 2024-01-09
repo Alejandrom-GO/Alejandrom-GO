@@ -50,7 +50,7 @@ Hello, I started as a web developer since 2018, I focus on frontend development 
 </p>
 <h3>💻 Programming Languages</h3>
 <p>
-  <img src="https://shields.io/badge/TypeScript-3178C6?style=for-the-badgelogo=TypeScript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-9D9D9D?style=for-the-badge&logo=php&logoColor=white">
 </p>
 <h3>⚙️ Backend Development</h3>
