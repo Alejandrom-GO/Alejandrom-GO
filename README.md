@@ -56,7 +56,6 @@ Hello, I started as a web developer since 2018, I focus on frontend development 
 <h3>⚙️ Backend Development</h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/LARAVEL-F05340?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-9D9D9D?style=for-the-badge&logo=php&logoColor=white">
 </p>
 <h3>🔥 Movil Development</h3>
