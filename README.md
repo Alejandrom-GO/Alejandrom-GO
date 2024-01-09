@@ -28,6 +28,7 @@ Hello, I started as a web developer since 2018, I focus on frontend development 
   <img src="https://img.shields.io/badge/BOOTSTRAP-563D7c?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/PHP-9D9D9D?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-9D9D9D?style=for-the-badge&logo=php&logoColor=white">
 </p>
 
 <h3>👨🏻‍💻  I’m currently learning</h3>
